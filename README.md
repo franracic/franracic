@@ -6,7 +6,6 @@
 - 🎓 Bachelor of Science in Computer Engineering
 
 ### Work experience:
-- 💼 Currently working as a web developer at Zen Zone Media and as a freelance web programmer
 - 🖥️ Previous experience at Uvea d.o.o. as a web programmer
 
 ### Professional skills:
