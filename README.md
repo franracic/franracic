@@ -1,4 +1,4 @@
-# Fran Račić | Software Dev Engineer Intern @ Amazon | Computer Science Student
+# Fran Račić | SDE Intern @ AWS Dublin · MSc Data Science @ FER Zagreb · systems & ML
 
 Computer Science student at the University of Zagreb with a deep passion for exploring new technologies and solving complex challenges. My interests lie at the intersection of software architecture, system design, and artificial intelligence. I am always eager to learn and apply cutting-edge solutions. My goal is to use these skills on impactful projects.
 
