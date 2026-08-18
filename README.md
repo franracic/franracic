@@ -4,7 +4,7 @@
 
 - Co-author, [FER at SemEval-2026 Task 6](https://github.com/ma55530/FER-SemEval2026-T6) —
   unmasking political question evasions (SemEval @ ACL 2026)
-- BSc thesis: [Robustness Analysis of Data Example Difficulty Estimation in Language Models](THESIS-REPO-LINK) (FER, 2026)
+- BSc thesis: Robustness Analysis of Data Example Difficulty Estimation in Language Models (FER, 2026)
 - Previously: ClickHouse data platform & PyTorch recommender @ Sofascore · computer-vision
   inspection systems @ Uvea
 
