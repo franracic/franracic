@@ -1,7 +1,13 @@
-# Fran Račić | SDE Intern @ AWS Dublin · MSc Data Science @ FER Zagreb · systems & ML
+# Fran Račić
 
-Computer Science student at the University of Zagreb with a deep passion for exploring new technologies and solving complex challenges. My interests lie at the intersection of software architecture, system design, and artificial intelligence. I am always eager to learn and apply cutting-edge solutions. My goal is to use these skills on impactful projects.
+**SDE Intern @ AWS Dublin** (returning) · **MSc Data Science @ FER, University of Zagreb** (2026–2028)
 
-Feel free to check out my work here and connect with me! 
+- Co-author, [FER at SemEval-2026 Task 6](https://github.com/ma55530/FER-SemEval2026-T6) —
+  unmasking political question evasions (SemEval @ ACL 2026)
+- BSc thesis: [Robustness Analysis of Data Example Difficulty Estimation in Language Models](THESIS-REPO-LINK) (FER, 2026)
+- Previously: ClickHouse data platform & PyTorch recommender @ Sofascore · computer-vision
+  inspection systems @ Uvea
 
-📫 [Email](mailto:fran.racic@gmail.com) | [LinkedIn](https://linkedin.com/in/fran-racic)
+**Tools I reach for:** Python, C++, Go, TypeScript · PyTorch, pandas, ClickHouse · AWS, Linux, Docker, Kubernetes
+
+[LinkedIn](https://www.linkedin.com/in/fran-racic/) · fran.racic@gmail.com
